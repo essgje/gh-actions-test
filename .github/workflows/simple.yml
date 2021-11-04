@@ -10,4 +10,4 @@ jobs:
          run: echo "halló heimur"
        - name: multiline script
          run: |
-           node -vx
+           node -v
